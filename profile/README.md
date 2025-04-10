@@ -13,19 +13,9 @@ A Apel é uma empresa com forte presença no mercado paraibano, atuando em [áre
 ## Projetos e Iniciativas
 A Apel está envolvida em diversos projetos que visam [breve descrição dos objetivos principais dos projetos da empresa].
 
-### Exemplos de Projetos
-1. **[Nome do Projeto 1]:** [Breve descrição]
-2. **[Nome do Projeto 2]:** [Breve descrição]
-3. **[Nome do Projeto 3]:** [Breve descrição]
+### Projetos
+1. **DTP:** Projeto transporte publico.
 
-## Como Contribuir
-Estamos sempre abertos a colaborações! Se você deseja contribuir com nossos projetos, siga estas etapas:
-
-1. Faça um fork deste repositório.
-2. Crie um branch com a sua feature ou correção: `git checkout -b minha-feature`.
-3. Commit suas alterações: `git commit -m 'Adiciona minha feature'`.
-4. Faça um push para o branch: `git push origin minha-feature`.
-5. Abra um Pull Request.
 
 ## Contato
 Se você deseja entrar em contato conosco, aqui estão nossos principais canais:
